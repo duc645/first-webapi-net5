@@ -12,5 +12,6 @@ namespace test_push_0308.Controllers
     public class ProductController : ControllerBase
     {
         //test lan 1
+        //testc 2
     }
 }
